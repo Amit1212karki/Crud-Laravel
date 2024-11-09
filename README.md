@@ -1,2 +1,2 @@
-# Image-Crud-Django
-A Django-based CRUD application with image upload functionality. This project provides a simple interface for creating, reading, updating, and deleting records, complete with image handling for each entry. Ideal for anyone looking to manage content with media assets in Django.
+# Crud-laravel
+"A Laravel-based CRUD application. This project allows users to create, read, update, and delete records, with seamless image handling for each entry. Perfect for managing content with media assets in a Laravel environment.
