@@ -1,0 +1,40 @@
+# Laravel-specific
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/logs/*.log
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+
+# Environment files
+.env
+.env.backup
+
+# Composer and NPM lock files (optional, depending on your use case)
+composer.lock
+yarn.lock
+npm-debug.log
+yarn-error.log
+
+# PHPUnit result cache
+.phpunit.result.cache
+
+# Docker files
+docker-compose.override.yml
+
+# Homestead configuration files
+Homestead.json
+Homestead.yaml
+
+# IDE-specific files (optional)
+/.idea
+/.vscode
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
